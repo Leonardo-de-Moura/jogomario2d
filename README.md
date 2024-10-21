@@ -1,0 +1,1 @@
+sera necessario atualizar o projeto com lguns recursos adicionais(score, uso refinado do js e etc.)
